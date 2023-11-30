@@ -43,4 +43,4 @@ An implementation of the Tower of Hanoi problem.
 To get started with any of these projects, clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/mayJag/IBM--Session.git
+git clone https://github.com/mayJag/IBM-Session.git
